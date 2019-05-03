@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: October 26, 2018 08:10
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20181026_12management_d480ca3690639eba4454_20181026081005_database.sql 
+SQL FILE SIZE: 1.06MB (1107406) 
+SQL FILE TIME: 2018-10-26 08:10:12 
+SQL RUNTIME: 0.14 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/companyprofile 
+ARCHIVE FILE: 20181026_12management_d480ca3690639eba4454_20181026081005_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	98.15MB 
+STATS:	Dirs 464 | Files 2,730 
+SQL ADDED: 20181026_12management_d480ca3690639eba4454_20181026081005_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3194
+    [filename] => /Applications/MAMP/htdocs/companyprofile/wp-snapshots/tmp/20181026_12management_d480ca3690639eba4454_20181026081005_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 66.09MB 
+ARCHIVE RUNTIME: 9.84 sec. 
+MEMORY STACK: 20.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/companyprofile/wp-snapshots/tmp/20181026_12management_d480ca3690639eba4454_20181026081005_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.06MB 
+Installer File: 514.2KB 
+Archive File: 66.09MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 10.66 sec.
+PEAK PHP MEMORY USED: 22.25MB
+DONE PROCESSING => 20181026_12management October 26, 2018 08:10
+ 
